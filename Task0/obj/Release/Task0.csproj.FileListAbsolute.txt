@@ -1,0 +1,11 @@
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\bin\Release\Task0.exe.config
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\bin\Release\Task0.exe
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\bin\Release\Task0.pdb
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.csproj.AssemblyReference.cache
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.csproj.ResolveComReference.cache
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.MainForm.resources
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.Properties.Resources.resources
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.csproj.GenerateResource.cache
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.csproj.CoreCompileInputs.cache
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.exe
+C:\Users\sthoz\source\repos\C#\Isit\Task1\Task0\obj\Release\Task0.pdb
